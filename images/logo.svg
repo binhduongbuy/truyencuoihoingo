@@ -4,17 +4,18 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1024px"
 	 height="992px" viewBox="0 0 1024 992" enable-background="new 0 0 1024 992" xml:space="preserve">
 <g id="Truyeän">
-	<text transform="matrix(1.011 0 0 1 311.2715 272.334)"><tspan x="0" y="0" fill="#21F411" font-family="'VNI-Bandit'" font-size="47.7585">Truyeän</tspan><tspan x="166.197" y="0" fill="#F9FDF9" font-family="'VNI-Bandit'" font-size="47.7585"> </tspan></text>
 </g>
 <g id="Cöôøi">
-	<text transform="matrix(1.011 0 0 1 258.4033 551.5986)" fill="#F30E14" font-family="'VNI-Truck'" font-size="234.1613">Cöôøi</text>
 </g>
 <g id="HOÄI_ngoä">
-	<text transform="matrix(1.011 0 0 1 398.9404 701.9756)" fill="#F5B211" font-family="'VNI-Bandit'" font-size="67.2883">HOÄI ngoä</text>
 </g>
 <g id="图层_1_xA0_Image_1_">
-	
-		<image overflow="visible" width="1024" height="992" id="图层_1_xA0_Image_2_" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAcAAAPcCAYAAAA9mtIgAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+	<g>
+		<text transform="matrix(1.011 0 0 1 311.2715 272.334)"><tspan x="0" y="0" fill="#21F411" font-family="'VNI-Bandit'" font-size="47.7585">Truyeän</tspan><tspan x="166.197" y="0" fill="#F9FDF9" font-family="'VNI-Bandit'" font-size="47.7585"> </tspan></text>
+		<text transform="matrix(1.011 0 0 1 258.4033 551.5986)" fill="#F30E14" font-family="'VNI-Truck'" font-size="234.1613">Cöôøi</text>
+		<text transform="matrix(1.011 0 0 1 398.9404 701.9756)" fill="#F5B211" font-family="'VNI-Bandit'" font-size="67.2883">HOÄI ngoä</text>
+		
+			<image overflow="visible" width="1024" height="992" id="图层_1_xA0_Image_2_" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAcAAAPcCAYAAAA9mtIgAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
 GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAUuqBJREFUeNrsvdluJNmWJXZGM/OB
 ZEQO9+YdunBLqkZ1o6UWGpAADf2mRwF61YfoP/QD+gK967GBRkMSIEEChG5IXVXqqq66dceMzAgG
 SR/M7Axbe+1j5jQ6SScjSGYEI8Pyxo0g3d3c7NgZ9lpn7bX1f/8/KKcecJy+VOrl6c2vff1KqaZT
@@ -23850,6 +23851,7 @@ jy52vGdEvbEIRHLZiGlimktipfVOxnhLaDCajZXg6GM9e57VI3AA7X4FHOiyyFut2ngmOPCiu7Rn
 XfmYcrdthgeAAQu3CqOOGUi/6714cmDTJ++sU9ZuwIE8F6651BOfgV0maBrSQTQbohnXAX3BeWw4
 edJ6jPClEbf1mq5x0LtZd099BPQLnPOix5g1gLmHlolzwQHEKd++7h/z7F73LsCB/1+AAQAL/8nY
 puOYywAAAABJRU5ErkJggg==" transform="matrix(1.0059 0 0 0.995 -2.9028 2.4951)">
-	</image>
+		</image>
+	</g>
 </g>
 </svg>
