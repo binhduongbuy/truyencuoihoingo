@@ -3,7 +3,7 @@ date: 2018-06-25
 title: Truyện cười : Bác nông dân lên thiên đàng
 categories:
   - Câu chuyện cuộc đời
-featured_image: https://www.truyen-cuoi.com/uploads/2014/11/anh-minh-hoa-221x300.jpg
+featured_image: https://c1.staticflickr.com/1/835/29173006298_0208f4b89a_o.jpg
 recipe:
   servings:  
   prep:  
