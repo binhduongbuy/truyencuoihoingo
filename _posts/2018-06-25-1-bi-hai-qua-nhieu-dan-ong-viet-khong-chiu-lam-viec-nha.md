@@ -3,7 +3,7 @@ date: 2018-06-25
 title: Bi hài : Quá nhiều đàn ông Việt không chịu làm việc nhà
 categories:
   - Câu chuyện cuộc đời
-featured_image:https://vmode.vn/uploads/2014/10/nha6.jpg
+featured_image: https://vmode.vn/uploads/2014/10/nha6.jpg
 recipe:
   servings:  
   prep:  
