@@ -16,6 +16,9 @@ recipe:
 ---
 
 Thời buổi kinh tế khó khăn, 2 anh bạn lâu lâu mới gặp nhau:
+
 – Dạo này sao trông mày mập ú vậy?
+
 – À! Có gì đâu, vợ tao làm ở nhà máy sản xuất bột mì, công ty bán hàng không được nên trả lương nhân viên bằng sản phẩm, tao ăn riết nên mập vậy. Thế còn mày, sao còm nhom vậy?
+
 – Công ty vợ tao cũng vậy, cũng trả lương bằng sản phẩm luôn, nhưng mà nó làm tại nhà máy sản xuất. . .bao cao su

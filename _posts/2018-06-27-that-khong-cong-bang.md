@@ -16,8 +16,13 @@ recipe:
 ---
 
 Sau khi ký vào biên bản nộp phạt, Ku Tèo hậm hực hỏi cảnh sát:
+
 – Thật không công bằng. Nhiều xe khác cũng chạy nhanh, sao chỉ có mình tôi bị phạt?
+
 Viên cảnh sát hỏi lại:
+
 – Có bao giờ anh đi câu không?
+
 – Có, thì sao?
+
 – Vậy có bao giờ anh câu được tất cả cá trong hồ không? – viên cảnh sát hỏi tiếp ☺
