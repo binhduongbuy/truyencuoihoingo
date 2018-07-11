@@ -32,7 +32,7 @@
 			}
 
 			&:hover {
-				background: #FFFF99;
+				background: none;
 			}
 		}
 	}
