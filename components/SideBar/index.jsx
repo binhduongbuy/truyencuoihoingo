@@ -10,7 +10,15 @@ class SideBar extends React.Component {
     const AdsenseSponsorAdsEnds = buildAdsenseSponsorAdsEnds();
 
         return (
-           
+            <div className='sidebar'>
+                <Youtube {...this.props} />
+		<div className='sidebar__sponsor'>Sponsor <br />
+		<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js' />
+		{ process.env.NODE_ENV === 'production' ? AdsenseSponsorAds : null }
+		{ process.env.NODE_ENV === 'production' ? AdsenseSponsorAdsEnds : null }
+		</div>
+                
+            </div>
         );
     }
 }
