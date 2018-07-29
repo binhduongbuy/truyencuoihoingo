@@ -7,3 +7,13 @@ import './style.scss'
 import iconFacebook from '../../static/img/svg-icons/facebook.svg'
 import iconSmartphone from '../../static/img/svg-icons/smartphone.svg'
 
+class SocNav extends React.Component {
+    render() {
+
+        return (
+            
+        );
+    }
+}
+
+export default SocNav

@@ -9,7 +9,9 @@ class SideBar extends React.Component {
     const AdsenseSponsorAds = buildAdsenseSponsorAds();
     const AdsenseSponsorAdsEnds = buildAdsenseSponsorAdsEnds();
 
-       
+        return (
+           
+        );
     }
 }
 
