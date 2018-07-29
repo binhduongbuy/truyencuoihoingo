@@ -1,8 +1,8 @@
 import React from 'react'
-import { RouteHandler, Link } from 'react-router'
+
 import { prefixLink } from 'gatsby-helpers'
 import { config } from 'config'
-import Ink from 'react-ink'
+
 
 import './style.scss'
 import iconEagle from '../../static/img/svg-icons/nihonsuruinline.svg'
