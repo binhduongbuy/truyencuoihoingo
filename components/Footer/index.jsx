@@ -22,7 +22,7 @@ class Footer extends React.Component {
 	<div className='footer__container-floating'>
 
  
-  </div>
+  
 
 </div>
 
