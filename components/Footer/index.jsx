@@ -21,11 +21,7 @@ class Footer extends React.Component {
 
 	<div className='footer__container-floating'>
 
-  <div className='footer__floating-button' data-toggle='tooltip' data-placement='left' data-original-title='Create' onclick='newmail()'>
-        <Link to={ config.sitePhoneLink } className='footer__plus' >
-                    <span className='footer__plus'>Gọi</span>
-          <Ink />
-        </Link> 
+ 
   </div>
 
 </div>
