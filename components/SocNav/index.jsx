@@ -5,6 +5,7 @@ import Ink from 'react-ink'
 
 import './style.scss'
 import iconFacebook from '../../static/img/svg-icons/facebook.svg'
+import iconSmartphone from '../../static/img/svg-icons/smartphone.svg'
 
 class SocNav extends React.Component {
     render() {
@@ -18,7 +19,11 @@ class SocNav extends React.Component {
                     <Ink />
                 </a>
 
-                
+                <a href={ config.sitePhoneLink } className='socnav__link' target='_blank'>
+                    <img className='socnav__link-icon' src={ prefixLink(iconSmartphone) }/>
+                    <span className='socnav__link-name'>{ config.sitePhone }</span>
+                    <Ink />
+                </a>
             </div>
         );
     }

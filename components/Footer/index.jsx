@@ -1,8 +1,8 @@
 import React from 'react'
-
+import { RouteHandler, Link } from 'react-router'
 import { prefixLink } from 'gatsby-helpers'
 import { config } from 'config'
-
+import Ink from 'react-ink'
 
 import './style.scss'
 import iconEagle from '../../static/img/svg-icons/nihonsuruinline.svg'
@@ -21,7 +21,12 @@ class Footer extends React.Component {
 
 	<div className='footer__container-floating'>
 
-  
+  <div className='footer__floating-button' data-toggle='tooltip' data-placement='left' data-original-title='Create' onclick='newmail()'>
+        <Link to={ config.sitePhoneLink } className='footer__plus' >
+                    <span className='footer__plus'>Gọi</span>
+          <Ink />
+        </Link> 
+  </div>
 
 </div>
 
