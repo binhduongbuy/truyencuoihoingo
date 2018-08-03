@@ -3,7 +3,7 @@ id: 1
 title: 100 nụ hôn nồng thắm
 layout: ReleasePage
 category: releases
-path: '/releases/100-nu-hon-nong-tham/'
+path: '/releases/01-100-nu-hon-nong-tham/'
 key: 100nuhonnongtham
 
 meta: 100 nụ hôn nồng thắm, bình dương

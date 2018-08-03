@@ -3,7 +3,7 @@ id: 3
 title: Bác Sĩ Thông Minh
 layout: ReleasePage
 category: releases
-path: '/releases/bac-si-thong-minh/'
+path: '/releases/03-bac-si-thong-minh/'
 key: bacsithongminh
 
 meta:Bác Sĩ Thông Minh, bình dương

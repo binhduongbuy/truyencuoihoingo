@@ -3,7 +3,7 @@ id: 2
 title: Anh cũng thế
 layout: ReleasePage
 category: releases
-path: '/releases/anh-cung-the/'
+path: '/releases/02-anh-cung-the/'
 key: anhcungthe
 
 meta: Anh cũng thế, bình dương

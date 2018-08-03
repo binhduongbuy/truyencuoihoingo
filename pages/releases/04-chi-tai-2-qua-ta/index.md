@@ -3,7 +3,7 @@ id: 4
 title: Chỉ tại 2 quả tạ
 layout: ReleasePage
 category: releases
-path: '/releases/chi-tai-2-qua-ta/'
+path: '/releases/04-chi-tai-2-qua-ta/'
 key: chitai2quata
 
 meta: Chỉ tại 2 quả tạ, bình dương
